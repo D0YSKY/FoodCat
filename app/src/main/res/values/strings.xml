@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="Typos">
+    <string name="app_name">FoodCatalog</string>
+    <string name="cart_summary">Total: %1$s   •   %2$d item</string>
+    <string name="greeting_title">LAPER? GAS MAKAN! 🍜</string>
+    <string name="greeting_subtitle">Temukan menu favorit kamu hari ini</string>
+    <string name="search_hint">Cari nasi goreng, soto, es teh&#8230;</string>
+    <string name="section_title_default">Menu pilihan</string>
+    <string name="nav_home">⌂\nMenu</string>
+    <string name="nav_favorites">♡\nFavorit</string>
+    <string name="nav_cart">🛒\nKeranjang</string>
+    <string name="nav_admin">⚙\nAdmin</string>
+    <string name="btn_add_cart">+ Keranjang</string>
+    <string name="fav_empty">♡</string>
+    <string name="default_emoji">🍜</string>
+    <string name="sample_food_name">Nasi Goreng</string>
+    <string name="sample_category">Nasi</string>
+    <string name="sample_price">Rp 18.000</string>
+</resources>
